@@ -1,2 +1,5 @@
 This example shows how to detect S Pen hover gestures, on any Android View.
-Devices such as Samsung Galaxy S4 and Note 3 have Air View, which means hover events can be triggered by bringing the finger close to the item. TO respond to Air View, hovering, please inclusion of intent-filter in Manifest.xml
+
+![Air View](http://www1.pcmag.com/media/images/316588-samsung-galaxy-s4-air-view.jpg)
+
+Devices such as Samsung Galaxy S4 and Note 3 have Air View, which means hover events can be triggered by bringing the finger close to the screen. To respond to Air View, hovering, please remember the inclusion of intent-filter in Manifest.xml
